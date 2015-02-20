@@ -3,7 +3,7 @@
 //  UIView+AXNibInNib
 //
 
-@implementation ULSRankingShowToolbar (AXNibInNib)
+@implementation UIView (AXNibInNib)
 
 - (id)awakeAfterUsingCoderWithLoadingNib
 {

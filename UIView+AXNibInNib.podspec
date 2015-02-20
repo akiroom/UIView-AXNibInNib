@@ -3,9 +3,6 @@ Pod::Spec.new do |s|
   s.name             = "UIView+AXNibInNib"
   s.version          = "0.1.0"
   s.summary          = "UIView category extension to make nib in nib."
-  s.description      = <<-DESC
-                         UIView category extension to make nib in nib.
-                       DESC
   s.homepage         = "https://github.com/akiroom/UIView-AXNibInNib"
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { "Hiroki Akiyama" => "aki-hiroki@nifty.com" }
